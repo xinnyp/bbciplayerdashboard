@@ -1,0 +1,106 @@
+region,genre_1,session_counts
+east midlands,Children's,5484
+east midlands,Comedy,766
+east midlands,Drama,3225
+east midlands,Entertainment,217
+east midlands,Factual,1842
+east midlands,Music,207
+east midlands,News,302
+east midlands,Sport,61
+east midlands,unknown,41379
+east of england,Children's,4506
+east of england,Comedy,985
+east of england,Drama,6159
+east of england,Entertainment,168
+east of england,Factual,2440
+east of england,Music,298
+east of england,News,774
+east of england,Sport,4
+east of england,unknown,86584
+london,Children's,269409
+london,Comedy,38995
+london,Drama,113323
+london,Entertainment,4869
+london,Factual,46035
+london,Music,4617
+london,News,14170
+london,Sport,1427
+london,unknown,1925549
+north east,Children's,4181
+north east,Comedy,95
+north east,Drama,1856
+north east,Entertainment,33
+north east,Factual,611
+north east,Music,115
+north east,News,243
+north east,unknown,35288
+north west,Children's,20021
+north west,Comedy,3248
+north west,Drama,7484
+north west,Entertainment,993
+north west,Factual,4269
+north west,Music,557
+north west,News,1048
+north west,Sport,65
+north west,unknown,121391
+northern ireland,Children's,530
+northern ireland,Comedy,104
+northern ireland,Drama,819
+northern ireland,Entertainment,33
+northern ireland,Factual,160
+northern ireland,Music,26
+northern ireland,News,72
+northern ireland,Sport,1
+northern ireland,unknown,6909
+scotland,Children's,4913
+scotland,Comedy,523
+scotland,Drama,2664
+scotland,Entertainment,4
+scotland,Factual,1245
+scotland,Music,97
+scotland,News,466
+scotland,Sport,18
+scotland,unknown,40892
+south east,Children's,26047
+south east,Comedy,1880
+south east,Drama,13482
+south east,Entertainment,482
+south east,Factual,3103
+south east,Music,590
+south east,News,1137
+south east,Sport,18
+south east,unknown,170297
+south west,Children's,24496
+south west,Comedy,6993
+south west,Drama,5566
+south west,Entertainment,245
+south west,Factual,4619
+south west,Music,247
+south west,News,625
+south west,Sport,789
+south west,unknown,110885
+wales,Children's,11286
+wales,Comedy,182
+wales,Drama,1193
+wales,Entertainment,887
+wales,Factual,2074
+wales,Music,660
+wales,News,240
+wales,unknown,42670
+west midlands,Children's,8149
+west midlands,Comedy,796
+west midlands,Drama,7147
+west midlands,Entertainment,130
+west midlands,Factual,2956
+west midlands,Music,104
+west midlands,News,366
+west midlands,Sport,42
+west midlands,unknown,94248
+yorkshire and the humber,Children's,8342
+yorkshire and the humber,Comedy,1694
+yorkshire and the humber,Drama,5487
+yorkshire and the humber,Entertainment,200
+yorkshire and the humber,Factual,1754
+yorkshire and the humber,Music,229
+yorkshire and the humber,News,458
+yorkshire and the humber,unknown,68651
