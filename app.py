@@ -71,7 +71,7 @@ genre_graph = genre_graph.iplot(kind='bar', asFigure=True, xTitle='Genre', yTitl
                             title='Genres by Region', layout=layout)
 # PAGE 2
 
-web_usage_date_fig = web_usage.groupby(['date', 'region']).agg({'session_id': pd.Series.nunique}).unstack().iplot(kind='scatter',
+web_usage_date_fig = web_usage.groupby(['date', 'region'])['session_id'].count().unstack().iplot(kind='scatter',
                                                                                                  asFigure=True,
                                                                                                  title='Sessions_by Day',
                                                                                                  layout=layout)
