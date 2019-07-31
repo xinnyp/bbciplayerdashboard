@@ -83,7 +83,7 @@ app.layout = html.Div([
                'color': 'white', },
         children=
         [
-            html.H3(children='BBC iPlayer Analysis | By Xinping Pan',
+            html.H3(children='BBC iPlayer Analysis | By X Pan',
                     style={'backgroundColor': 'rgb(26,26,26)',
                            'color': 'white',
                            'padding': '0px 10px 10px 10px'},
